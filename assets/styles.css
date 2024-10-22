@@ -3,34 +3,53 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 20px;
-    background-color: #f9f9f9;
+    background-color: #f9f9f9; /* Light background for contrast */
 }
 
 h1, h2, h3 {
-    color: #333;
+    color: #5F427A; /* Use primary color for headings */
 }
 
 nav {
-    background: #007bff;
+    background: #5F427A; /* Primary color for the nav */
     color: white;
-    padding: 10px;
+    padding: 15px 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 nav a {
     color: white;
-    margin: 0 10px;
+    margin: 0 15px; /* Increased margin for better spacing */
     text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s; /* Smooth color transition */
 }
 
 nav a:hover {
+    color: #FFD700; /* Gold color for hover effect */
     text-decoration: underline;
 }
 
 .container {
     max-width: 800px;
     margin: auto;
-    padding: 20px;
+    padding: 30px; /* Increased padding for better spacing */
     background: white;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 12px; /* Softer corners */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Slightly stronger shadow */
+}
+
+/* Additional styling for buttons if needed */
+.button {
+    background-color: #5F427A; /* Primary color for buttons */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #FFD700; /* Gold hover effect for buttons */
 }
