@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About Me
+layout: default
+title: Home
 ---
 
 <html lang="en">
@@ -35,18 +35,22 @@ title: About Me
     </style>
 </head>
 <body>
-<div class="navbar">
-    <a href="index.md">Home</a>
-    <a href="about.md">About</a>
-    <a href="projects.md">Projects</a>
-    <a href="contact.md">Contact</a>
-</div>
+    
+<nav>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/about/">About Me</a></li>
+    <li><a href="/cv/">CV</a></li>
+    <li><a href="/projects/">Projects</a></li>
+    <li><a href="/contact/">Contact</a></li>
+  </ul>
+</nav>
 
-<h1>Welcome!</h1>
+# Welcome!
 
-<h2>About Me</h2>
-<p>Hello! I am a senior at Yale studying applied mathematics with a concentration in machine learning. I am lucky to be advised by Smita Krishnaswamy and Ian Adelstein. Currently, my research interests lie in manifold learning and physics-informed machine-learning models. 
-</p>
+## About Me
+Hello! I am a senior at Yale studying applied mathematics with a concentration in machine learning. I am lucky to be advised by Smita Krishnaswamy and Ian Adelstein. Currently, my research interests lie in manifold learning and physics-informed machine-learning models. 
+
 
 ...
 
