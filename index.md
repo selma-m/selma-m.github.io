@@ -46,7 +46,7 @@ title: About Me
 <h1>Welcome!</h1>
 
 <h2>About Me</h2>
-<p>Hi! Hello! I am a senior at Yale studying applied mathematics with a concentration in machine learning. I am lucky to be advised by Smita Krishnaswamy and Ian Adelstein. Currently, my research interests lie in manifold learning and physics-informed machine-learning models. 
+<p>Hello! I am a senior at Yale studying applied mathematics with a concentration in machine learning. I am lucky to be advised by Smita Krishnaswamy and Ian Adelstein. Currently, my research interests lie in manifold learning and physics-informed machine-learning models. 
 </p>
 
 ...
