@@ -6,7 +6,7 @@ theme: minima
 baseurl: ""
 nav:
   - title: Home
-    url: /
+    url: /about/
   - title: About Me
     url: /about/
   - title: CV
