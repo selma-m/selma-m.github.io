@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Home
 ---
 
@@ -12,14 +11,18 @@ title: Home
     <style>
         body {
             font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
         }
         .navbar {
             background-color: #333;
-            overflow: hidden;
+            position: absolute; /* Use absolute positioning */
+            top: 0; /* Align to top */
+            right: 0; /* Align to right */
+            width: auto; /* Automatic width */
         }
         .navbar a {
-            float: left;
-            display: block;
+            display: inline-block; /* Inline block for horizontal alignment */
             color: white;
             text-align: center;
             padding: 14px 16px;
@@ -33,18 +36,11 @@ title: Home
 </head>
 <body>
 
-<div class="navbar">
-    <a href="index.md">Home</a>
-    <a href="about.md">About</a>
-    <a href="cv.md">CV</a>
-    <a href="projects.md">Projects</a>
-    <a href="contact.md">Contact</a>
-</div>
+<h1>Welcome!</h1>
 
-# Selma Mazioud
-
-## About Me
-Hi! I am a senior at Yale studying applied mathematics with a concentration in machine learning. I am lucky to be advised by Smita Krishnaswamy and Ian Adelstein. Currently, my research interests lie in manifold learning and physics-informed machine-learning models. 
+<h2>About Me</h2>
+<p>Hi! Hello! I am a senior at Yale studying applied mathematics with a concentration in machine learning. I am lucky to be advised by Smita Krishnaswamy and Ian Adelstein. Currently, my research interests lie in manifold learning and physics-informed machine-learning models. 
+</p>
 
 ...
 
