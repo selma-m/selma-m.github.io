@@ -3,10 +3,12 @@ description: Hello! I am a senior at Yale majoring in applied mathematics with a
 author: Selma Mazioud
 url: https://selma-m.github.io
 theme: minima
+permalink: pretty
+markdown: kramdown
 baseurl: ""
 nav:
   - title: Home
-    url: /about/
+    url: /
   - title: About Me
     url: /about/
   - title: CV
