@@ -11,23 +11,33 @@ h1, h2, h3 {
 }
 
 nav {
-    background: #5F427A; /* Primary color for the nav */
+    background: #5F427A; /* Your primary color */
     color: white;
-    padding: 15px 20px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 10px 20px;
+    position: relative; /* Use relative positioning */
+}
+
+nav ul {
+    list-style: none; /* Remove default list styling */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margin */
+    display: flex; /* Use flexbox for alignment */
+    justify-content: flex-end; /* Align items to the right */
+}
+
+nav li {
+    margin-left: 20px; /* Spacing between links */
 }
 
 nav a {
     color: white;
-    margin: 0 15px; /* Increased margin for better spacing */
     text-decoration: none;
     font-weight: bold;
-    transition: color 0.3s; /* Smooth color transition */
+    transition: color 0.3s;
 }
 
 nav a:hover {
     color: #FFD700; /* Gold color for hover effect */
-    text-decoration: underline;
 }
 
 .container {
