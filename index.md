@@ -1,40 +1,8 @@
 ---
 layout: default
 title: Home
+stylesheet: /assets/styles.css
 ---
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Website Title</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        .navbar {
-            background-color: #333;
-            position: absolute; /* Use absolute positioning */
-            top: 0; /* Align to top */
-            right: 0; /* Align to right */
-            width: auto; /* Automatic width */
-        }
-        .navbar a {
-            display: inline-block; /* Inline block for horizontal alignment */
-            color: white;
-            text-align: center;
-            padding: 14px 16px;
-            text-decoration: none;
-        }
-        .navbar a:hover {
-            background-color: #ddd;
-            color: black;
-        }
-    </style>
-</head>
-<body>
     
 <nav>
   <ul>
