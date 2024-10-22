@@ -12,7 +12,6 @@ title: Projects
 
         <p>Drawing motivation from the manifold hypothesis, which posits that most high-dimensional data lies on or near low-dimensional manifolds, we apply manifold learning to the space of neural networks. We learn manifolds where datapoints are {\em neural networks} by introducing a distance between the hidden layer representations of the neural networks. These distances are then fed to the non-linear dimensionality reduction algorithm PHATE to create a manifold of neural networks. We characterize this manifold using features of the representation, including class separation, hierarchical cluster structure, spectral entropy, and topological structure. Our findings reveal that high-performing networks exhibit similar embedding characteristics in all three of the above categories. We then show applications of this method to searching for hyperparameters and architectures of neural networks based on sampling from the manifold. <a href="link/to/project1" target="_blank">View Project</a></p>
     </li>
-</ul>
 
     <li>
         <h3>Machine-learning Techniques for Particle Reconstruction at the LFHCal (class projects)</h3>
