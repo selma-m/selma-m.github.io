@@ -15,4 +15,5 @@ I am a senior at Yale majoring in applied mathematics with a concentration in ma
 <a href="https://wlab.yale.edu/people/helen-caines">Helen Caines</a>. Currently, my
 research interests lie in foundational machine learning, geometric learning,
 physics-informed machine-learning models, and applications to sustainability.
+
 <a href="files/Selma_CV_final.pdf">CV</a>
