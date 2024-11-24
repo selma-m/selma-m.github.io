@@ -1,6 +1,6 @@
 ---
 title: "Deep-Learning Methods for Particle Reconstruction at the LFHCal"
-excerpt: "CPSC 483 Class Project <\br> <img src = "images/lfhcal_figure.png">"
+excerpt: "CPSC 483 Class Project <br/> <img src = '/images/lfhcal_figure.png'>"
 collection: portfolio
 ---
 
