@@ -1,6 +1,6 @@
 ---
 title: "Expressivity of Graph Embeddings via Geometric Scattering using Diffusion Geometry"
-excerpt: "Senior Project"
+excerpt: "Senior Project (Fall 2024)"
 collection: portfolio
 ---
 
