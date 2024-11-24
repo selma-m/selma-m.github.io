@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "prof_pic.jpg"
   name             : "Selma Mazioud"
-  pronouns         : "she/her" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Undergraduate student"
   location         : "New Haven, CT"
   employer         : "Yale University"
