@@ -1,6 +1,6 @@
 ---
 title: "Exploring the Manifold of Neural Networks Using Diffusion Geometry"
-excerpt: "Summer Project <br/> <img src = '/images/schematic_v5.png'>"
+excerpt: "Summer 2024 Project <br/> <img src = '/images/schematic_v5.png'>"
 collection: portfolio
 ---
 
