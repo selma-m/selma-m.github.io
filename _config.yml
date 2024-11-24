@@ -21,7 +21,7 @@ repository               : "selma-m/selma-m.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "prof_pic.jpg"
   name             : "Selma Mazioud"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Undergraduate student"
