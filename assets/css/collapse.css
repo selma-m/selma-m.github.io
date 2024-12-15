@@ -15,3 +15,48 @@
     display: none;
     padding : 5px;
 }
+
+/* Container for the project grid */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+  margin: 20px;
+}
+
+/* Individual project item */
+.project-item {
+  background-color: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover effect for the project items */
+.project-item:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+/* Optional: Add some padding inside each project item */
+.project-item .post {
+  padding: 15px;
+}
+
+/* Optionally style the title and image */
+.project-item img {
+  width: 100%;
+  height: auto;
+  border-bottom: 2px solid #f4f4f4;
+}
+
+.project-item h2 {
+  font-size: 1.2rem;
+  margin: 10px 0;
+}
+
+.project-item p {
+  font-size: 1rem;
+  color: #666;
+}
