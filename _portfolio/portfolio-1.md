@@ -1,6 +1,6 @@
 ---
 title: "Measuring Entropy Over Graph Datasets Using Geometric Scattering and Diffusion Geometry"
-excerpt: "Senior Project (Fall 2024)"
+excerpt: "Senior Project (Fall 2024) <br/> <img src = '/images/generated_graphs_visuals.png'>"
 collection: portfolio
 ---
 
