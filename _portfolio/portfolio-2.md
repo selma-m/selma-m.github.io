@@ -8,4 +8,4 @@ CERN’s Large Forward Hadron Calorimeter (LFHCal) measures the energy of hadron
 
 <a href="https://github.com/selma-m/DLG-for-Particle-Reconstruction">GitHub repository</a>
 
-<a href="files/483_project_report.pdf">Project report (December 2024)</a>
+<a href="selma-m.github.io/files/483_project_report.pdf" target="_blank" style="display: inline-block; padding: 5px 10px; margin-top: 5px; font-weight: bold; font-size: 14px; text-decoration: none; background-color: #5a9bd5; color: white; border-radius: 3px;">Thesis</a>
