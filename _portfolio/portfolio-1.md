@@ -8,5 +8,3 @@ In this study, we propose a novel method to compute entropy over a set of graphs
 
 <a href='https://github.com/selma-m/graph-entropy/'>GitHub repository</a>
 
-<a href="../files/senior_thesis.pdf">Thesis</a>
-
