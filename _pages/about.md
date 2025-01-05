@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello! 
-======
 I am a senior at Yale majoring in applied mathematics with a concentration in machine learning. I am lucky to be advised by
 <a href="https://krishnaswamylab.org">Smita Krishnaswamy</a>,
 <a href="https://sites.google.com/view/adelstein">Ian Adelstein</a>, and
