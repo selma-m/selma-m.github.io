@@ -1,5 +1,5 @@
 ---
-title: "MATH 115: Calculus II — Peer Tutor (Fall 2023 and Spring 2024)"
+title: "MATH 115: Calculus II — Peer Tutor (Fall 2023, Spring 2024, and Spring 2025)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/math115
