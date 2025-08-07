@@ -21,14 +21,14 @@ repository               : "selma-m/selma-m.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "prof_pic.jpg"
+  avatar           : "profile.png"
   name             : "Selma Mazioud"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate student"
-  location         : "New Haven, CT"
-  employer         : "Yale University"
+  bio              : "PhD student"
+  location         : "Berkeley, CA"
+  employer         : "UC Berkeley"
   uri              : # URL
-  email            : "selma.mazioud@yale.edu" 
+  email            : "smazioud@berkeley.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -235,7 +235,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: false
       share: false
       related: false
@@ -253,8 +253,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -262,7 +262,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: false
   # _portfolio
   - scope:
