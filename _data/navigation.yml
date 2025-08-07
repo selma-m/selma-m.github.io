@@ -11,14 +11,14 @@ main:
   #- title: "Talks"
   #  url: /talks/   
 
-  - title: "Projects"
-    url: /portfolio/
+  #- title: "Projects"
+  #  url: /portfolio/
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
 
-  - title: "Miscellaneous"
-    url: /misc/
+  #- title: "Miscellaneous"
+  #  url: /misc/
     
   #- title: "About"
     #url: /
