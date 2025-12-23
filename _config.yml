@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Selma
 last_name: Mazioud
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+desription: > # the ">" symbol means to ignore newlines until "footer_text:"
   Website of Selma Mazioud.
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -79,7 +79,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Writing # blog_name will be displayed in your blog page
+blog_name: Selma's blog # blog_name will be displayed in your blog page
 blog_description: 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -205,6 +205,7 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-redirect-from
 
 # Sitemap settings
 defaults:
