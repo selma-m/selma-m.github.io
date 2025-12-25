@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year PhD student in Statistics at UC Berkeley. Currently, my research focuses on AI alignment, with an emphasis on understanding how properties of learning systems emerge from training dynamics. In particular, I am currently working on relating complexity measures to neural network training behavior, with the goal of developing principled tools for reasoning about model generalization, robustness, and safety.
+I am a first-year PhD student in Statistics at UC Berkeley. I am interested in AI alignment, and understanding how properties of learning systems emerge from training dynamics. In particular, I am currently working on relating complexity measures to neural network training behavior, with the goal of developing principled tools for reasoning about model generalization, robustness, and safety.
 
 More broadly, I am interested in improving the safety and reliability of AI systems by deepening our theoretical and empirical understanding of why modern models behave the way they do. I am especially drawn to questions at the intersection of alignment, interpretability, and fairness, and I am curious about how insights from neuroscience might inform the study of artificial learning systems (and vice versa!).
 
