@@ -28,7 +28,7 @@ pagination:
     <h2>{{ site.blog_description }}</h2>
   </div>
   <br>
-  <p style="font-size:1.2rem">Writing in progress...</p>
+  <p style="font-size:1.2rem">Writing in progress... I plan for most blog posts to be in French.</p>
   {% endif %}
 
 
