@@ -9,7 +9,7 @@
 # arxiv_id: # your arXiv author ID
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
-cv_pdf: /assets/pdf/selma_cv.pdf # path to your CV PDF file
+# cv_pdf: /assets/pdf/selma_cv.pdf # path to your CV PDF file
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: smazioud@berkeley.edu # your email address
@@ -26,7 +26,7 @@ github_username: selma-m # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: selma-mazioud # your LinkedIn user name
+# linkedin_username: selma-mazioud # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
